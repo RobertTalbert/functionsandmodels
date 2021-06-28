@@ -11,6 +11,4 @@ Right now (end of June 2021) the only folder present is `planning`. Once specifi
 * Other folders are present for the specific materials for a given semester. Right now, there is only one semester represented, Fall 2021. Other semesters will be added as separate folders in the future. 
 * For specific materials like syllabi and assessents, pick a semester and then look for the materials. ---> 
 
-Please note that 
-
 The textbook we use is [Active Prelude to Calculus](https://activecalculus.org/prelude/book-1.html) by Matt Boelkins. 
