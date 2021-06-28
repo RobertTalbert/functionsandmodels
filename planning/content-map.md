@@ -1,7 +1,9 @@
+---
+tags: mth124, learning-objectives
+---
+
+
 # MTH 124 Learning Objectives 
-
-[![hackmd-github-sync-badge](https://hackmd.io/btpf26xXTlWe20DBElB8sw/badge)](https://hackmd.io/btpf26xXTlWe20DBElB8sw)
-
 
 ## Chapter 1: Relating Changing Quantities
 
@@ -51,17 +53,39 @@
 
 ### 1.6 Composite Functions
 
-- 
+- Given two functions (in any form), evaluate their composition at a point using correct composition notation.
+- Given two functions in symbolic form, compute a formula for their composition using correct composition notation. 
+- Given a function in symbolic form, find a symbolic expression for its average rate of change on an interval with a variable endpoint. 
 
 ### 1.7 Inverse Functions
 
+- State the definition of *inverse function* and explain the basic conditions under which a function will have an inverse. 
+- Use the Horizonal Line Test to determine if a function (given in graphical form) has an inverse. 
+- State the "Properties of an inverse function". 
+
 ### 1.8 Transformations of Functions
 
+- Given a function $y = f(x)$, explain the graphical differences between $y$ and...
+    - $g(x) = f(x) + a$ where $a$ is a real number 
+    - $g(x) = f(x-b)$ where $b$ is a real number 
+    - $g(x) = c f(x)$ where $c > 1$
+    - $g(x) = c f(x)$ where $0 < c < 1$
+    - $g(x) = c f(x)$ where $c < 0$ 
+    - Combinations of the above transformations
+- Given a function and a set of transformations to it, write a formula for the transformed function. 
+
 ### 1.9 Combining Functions
+
+- Given two functions (in any format), evaluate their sum at a given point. 
+- Given two functions (in any format), evaluate their difference at a given point. 
+- Given two functions (in any format), evaluate their product at a given point. 
+- Given two functions (in any format), evaluate their quotient at a given point. 
 
 ## Chapter 2: Circular Functions
 
 ### 2.1 Traversing Circles
+
+- 
 
 ### 2.2 The Unit Circle 
 
@@ -108,3 +132,9 @@
 ### 5.4 Rational functions
 
 ### 5.5 Key features of rational functions 
+
+
+
+---
+
+[![hackmd-github-sync-badge](https://hackmd.io/btpf26xXTlWe20DBElB8sw/badge)](https://hackmd.io/btpf26xXTlWe20DBElB8sw)
