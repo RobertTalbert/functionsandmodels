@@ -132,39 +132,112 @@ tags: mth124, learning-objectives
 
 ### 3.3 The special number $e$ 
 
+- State the value of $e$ to five decimal places. 
+- Given an exponential function with base $b$, rewrite it as an exponential function with base $e$. 
+- Solve equations involving exponential functions with base $e$ using graphical techniques. 
+
+
 ### 3.4 What a logarithm is 
+
+- State the definition of the *base-10 logarithm of $y$*.
+- Compute values of the base-10 logarithm for various powers of 10. 
+- Solve equations involving exponential functions with base 10 and the base-10 logarithm. 
+- State the definition of the *natural logarithm of $y$*.
+- Solve equations involving exponential functions with base $e$ and the natural logarithm. 
+
+
 
 ### 3.5 Properties and applications of logarithms
 
+- State the properties that govern logarithms of products and quotients. 
+- State the property that governs logarithms of exponential expressions. 
+- Explain why the properties of logarithms for products, quotients, and exponentials work. 
+- Solve equations involving exponential functions (of any base) and logarithms. 
+- State the properties of the graph of $y = \ln (x)$. 
+
+
 ### 3.6 Modeling temperature and population 
 
+- Construct a model of a cooling object's temperature using Newton's Law of Cooling and the algebraic properties of logarithms. 
+- Construct a *logistic model* of population growth for a given population. 
 
 ## Chapter 4: Trigonometry
 
 ### 4.1 Right triangles 
 
+- State what it means for two triangles to be *similar*, and what we can say about the angles of similar triangles. 
+- State a definition of the sine of an angle in terms of the ratios of sides of a right triangle. 
+- State a definition of the cosine of an angle in terms of the ratios of sides of a right triangle. 
+- Given partial information about a right triangle, determine as many of the remaining side and angle values as possible. 
+
 ### 4.2 The tangent function 
+
+- State the definition of the *tangent* of an angle. 
+- State the values of the tangent function at each of the 16 special angle values on the unit circle. 
+- State the "Properties of the tangent function". 
+- Apply the tangent function to determine information about situations involving right triangles. 
+
 
 ### 4.3 Inverses of trigonometric functions 
 
+- State the definition of the *arccosine* function, including its domain. 
+- State the "Properties of the arccosine function". 
+- Determine the values of the arccosine function for values of the input that correspond to special angle values on the unit circle. 
+- State the definition of the *arcsine* function, including its domain. 
+- Determine the values of the arcsine function for values of the input that correspond to special angle values on the unit circle. 
+- State the definition of the *arctangent* function, including its domain. 
+- Determine the values of the arctangent function for values of the input that correspond to special angle values on the unit circle. 
+
+
+
 ### 4.4 Finding angles 
 
+- Given a right triangle with two side lengths known, determine exact and approximate values for all of the remaining angles and the remaining side. 
+- Apply inverse trigonometric functions to find angles in applied contexts. 
+
 ### 4.5 Other trigonometric functions and identities 
+
+- State the definitions of the *secant*, *cosecant*, and *cotangent* functions. 
+- Given the value of one trigonometric function at an angle, determine the values of the other five trigonometric functions at that angle. 
+- State the properties of the secant, cosecant, and cotangent functions. 
+- State the *Sum of Angles* and the *Double Angle* formulas for sine and cosine. 
 
 
 ## Chapter 5: Polynomial and Rational Functions
 
 ### 5.1 Infinity, limits, and power functions 
 
+- State the meaning of the notation: $\displaystyle{\lim_{t \to \infty} f(t) = L}$ and $\displaystyle{\lim_{t \to \infty} f(t) = \infty}$
+- Determine the limits of various functions as the input increases or decreases without bound. 
+- State the definition of a *power* function. 
+- Find the limits of a power function as the input increases or decreases without bound.
+
 ### 5.2 Polynomials 
+
+- State the definition of a polynomial function. 
+- State the *degree*, *coefficients*, and *terms* (especially, the *constant term*) of a polynomial function. 
+- State the definition of a *zero* of a polynomial function. 
+- Identify the *turning points* on the graph of a polynomial function. 
+- Describe the long-term behavior of a polynomial function and the relation of that behavior to the degree of the polynomial. 
+- Determine the *multiplicity* of a zero of a polynomial. 
 
 ### 5.3 Modeling with polynomial functions
 
+- Construct a model of a realistic quantitative relationship using a polynomial function. 
+- Given a set of data points, use a computer tool to construct a *polynomial regression* for the data. 
+
 ### 5.4 Rational functions
+
+- State the definition of a *rational* function. 
+- Determine the long-term behavior of a rational function and relate that behavior to the degrees of the numerator and denominator. 
+- State the domain of a rational function. 
+- Construct a model of a realistic quantitative relationship using a rational function. 
+
 
 ### 5.5 Key features of rational functions 
 
-
+- Determine where a rational function has a zero, a vertical asymptote, or a hole. 
+- Given information about a rational function (asymptotes, holes, zeros, etc.) construct a formula for the function. 
 
 ---
 
