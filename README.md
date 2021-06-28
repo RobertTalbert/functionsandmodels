@@ -4,8 +4,13 @@ This repository contains materials for MTH 124: Functions and Models, taught at 
 
 >Study of preparatory material for calculus using symbolic algebra and trigonometry for solving equations, representing functions, and modeling, plus appropriate technology. Core topics: concept of function, average rate of change of a function, inverse and composite functions, trigonometric functions, exponential and logarithmic functions, and right triangle trigonometry. Fulfills Foundations - Mathematical Sciences. Offered fall and winter semesters. Prerequisite: MTH 110.
 
+Right now (end of June 2021) the only folder present is `planning`. Once specific materials for Fall 2021 are built, there will be a `Fall2021` folder for that class. Additional folders will be added for subsequent semesters in the future. 
+
+<!---
 * The `planning` folder contains documents and notes for the design of the course. 
 * Other folders are present for the specific materials for a given semester. Right now, there is only one semester represented, Fall 2021. Other semesters will be added as separate folders in the future. 
-* For specific materials like syllabi and assessents, pick a semester and then look for the materials. 
+* For specific materials like syllabi and assessents, pick a semester and then look for the materials. ---> 
+
+Please note that 
 
 The textbook we use is [Active Prelude to Calculus](https://activecalculus.org/prelude/book-1.html) by Matt Boelkins. 
