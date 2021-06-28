@@ -7,3 +7,5 @@ This repository contains materials for MTH 124: Functions and Models, taught at 
 * The `planning` folder contains documents and notes for the design of the course. 
 * Other folders are present for the specific materials for a given semester. Right now, there is only one semester represented, Fall 2021. Other semesters will be added as separate folders in the future. 
 * For specific materials like syllabi and assessents, pick a semester and then look for the materials. 
+
+The textbook we use is [Active Prelude to Calculus](https://activecalculus.org/prelude/book-1.html) by Matt Boelkins. 
