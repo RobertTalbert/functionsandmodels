@@ -85,19 +85,50 @@ tags: mth124, learning-objectives
 
 ### 2.1 Traversing Circles
 
+- Given a circle with a particular center and radius, determine the height of a point traveling around the circle as a function of the distance traveled. 
+- Find the midline, amplitude, and period of a circular function. 
 - 
 
 ### 2.2 The Unit Circle 
 
+- State the definition of the *unit circle*. 
+- State the definition of a *radian*. 
+- Given an angle measure in radians, convert to degrees and vice versa. 
+- State the 16 special angle values and their $x$- and $y$-coordinates on the unit circle. 
+
 ### 2.3 The Sine and Cosine Functions
 
+- State the definitions of the *sine* and *cosine* functions.
+- State the values of sine and cosine at each of the 16 special angle values. 
+- State the "Properties of the sine and cosine functions". 
+- State the Fundamental Trigonometric Identity. 
+
 ### 2.4 Sinusoidal Functions
+
+- Explain the graphical differences between the functions $y = \sin(t)$ and $y = a \sin(t-b) + c$ where $a,b,c$ are real numbers. 
+- Explain the graphical differences between the functions $y = \cos(t)$ and $y = a \cos(t-b) + c$ where $a,b,c$ are real numbers. 
+- Explain the graphical differences between the functions $y = \sin(t)$ and $y = \sin(kt)$ where $k > 0$. 
+- Explain the graphical differences between the functions $y = \sin(t)$ and $y = \cos(kt)$ where $k > 0$. 
+- State the period of $y = \sin(kt)$ and $y = \cos(kt)$. 
 
 ## Chapter 3: Exponential and Logarithmic Functions
 
 ### 3.1 Exponential Growth and Decay
 
+- State the definition of an *exponential function* with *base $b$*. 
+- State the *growth factor* and *growth rate* of an exponential function. 
+- Determine the domain, range, and $y$-intercept of an exponential function. 
+- Given two or more points on the graph of an exponential function, find a formula for the function. 
+- State whether an exponential function is increasing or decreasing, and increasing or decreasing at an increasing rate. 
+
+
 ### 3.2 Modeling with Exponential Functions 
+
+- Describe the long-term behavior of a function of the form $f(t) = b^t$. 
+- Describe the long-term behavior of a function of the form $f(t) = ab^t + c$. 
+- Determine whether a function of the form $f(t) = ab^t + c$ is increasing/decreasing, concave up/concave down, and increasing/decreasing without bound or toward a finite value. 
+- Construct an exponential decay model for a cooling object using Newton's Law of Cooling. 
+
 
 ### 3.3 The special number $e$ 
 
