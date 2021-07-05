@@ -38,7 +38,7 @@ tags: mth124, learning-objectives
 - State the definition of a *linear* function. 
 - Compute the slope of a linear function, given two points on its graph. 
 - Given the slope of a linear function and a point on its graph, write the equation of the function in point-slope form and slope-intercept form. 
-- Interpret the meaning of the slope and $y$-intercept of a linear function in context. 
+- Interpret the meaning of the slope and $x$- and $y$-intercepts of a linear function in context. 
 
 ### 1.5 Quadratic Functions
 
@@ -87,7 +87,6 @@ tags: mth124, learning-objectives
 
 - Given a circle with a particular center and radius, determine the height of a point traveling around the circle as a function of the distance traveled. 
 - Find the midline, amplitude, and period of a circular function. 
-- 
 
 ### 2.2 The Unit Circle 
 
