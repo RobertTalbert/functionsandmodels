@@ -5,7 +5,6 @@
 - M 8/30
   - Welcome 
   - Icebreaker -- what are you good at doing and how did you get there 
-  - Puzzle (Towers of Hanoi)
   - High level overview 
     - What the couse is about
     - Before class
@@ -13,8 +12,9 @@
     - After class
     - Grading system
   - What to do next 
-- T 8/31 
+- T 8/31: Open time to work on the startup modules  
 - R 9/2
+  - Activities and exercisess from 1.1;;; Q&A time on the course 
 
 ## Week 2
 
