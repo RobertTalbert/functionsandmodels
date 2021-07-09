@@ -1,5 +1,49 @@
 # Assessments for MTH 124
 
+## Second pass 
+
+- Pre-class activities with pair quizzing 
+- Learning Targets assessed through quizzes 
+  - Levels: 0, 1, and 2 
+  - 0: No evidence yet of fluency 
+  - 1: Student has given acceptable demo of fluency once 
+  - 2: Student has given acceptable demo of fluency twice 
+  - Ways to demo: 
+    - LT Quizzes (Mondays?)
+    - Make a video 
+    - Oral exam in office hours 
+- Explorations (miniprojects, etc.)
+  - Involve modeling, writing, explanation plus math background 
+  - Don't give free choice on these; make them more like biweekly challenges 
+- Final exam 
+  - All Core LTs
+  - Plus big picture items 
+  - Use these for points to give +/- adjustment, and one final attempt at core 
+  - Let students choose any LT to add on 
+- Startup modules 
+  - Onboarding
+  - Tech training 
+- Engagement 
+  - Practice on WeBWorK (1 successfully completed problem = 1 point) 
+  - Surveys (1 survey = 1 point) 
+  - Randomly given points 
+
+### Grading
+
+|  | D | C | B | A | 
+| :--: | :--: | :--: | :--: | :--: | 
+| Learning Targets | 
+| Explorations | 
+| Engagement | 
+| Startup modules | n/a | Pass all | Pass all | Pass all | 
+
+Final exam determines +/- modifications with further modifications at my discretion. 
+
+
+
+## First pass
+
+
 + Pre-class activities with in-class pair quizzing
 + Learning Target quizzes graded Pass/No Pass, Level 1/2/3 (3 for core?) 
 + Final exam, comprehensive questions plus another layer on LTs 
@@ -10,7 +54,7 @@
   + Tech (Desmos, Google Sheets, discussion board (if we have one), uploading PDFs, WeBWorK orientation)
 
 
-## Way too early pass at the grading system 
+### Way too early pass at the grading system 
 
 Assumptions: 
 
