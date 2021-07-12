@@ -32,7 +32,7 @@
 | Learning Targets mastered | Any 10 | All 10 Core + 8 others | All 10 Core + 10 others  | All 10 Core + 12 others | 
 | Explorations passed | 2 | 5 | 6 | 7 | 
 | Class Prep points | (30%) | (60%) | (70%) | (80%) | 
-| Engagement points (assume 150) | 45 | 90 | 110 | 130 | 
+| Engagement points (assume 150) | 50 | 100 | 120 | 140 | 
 
 Additionally, all Startup Modules must be completed by xx/xx in order to earn a C or higher. 
 
