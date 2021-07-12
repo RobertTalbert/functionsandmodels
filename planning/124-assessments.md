@@ -1,5 +1,41 @@
 # Assessments for MTH 124
 
+
+## Third pass 
+
+- Grade is based on...
+  - Learning Target mastery
+    - 25 LT's. 
+    - Mastery requires two separate demonstrations of fluency. 
+    - This can be done: 
+      - By quizzes
+      - By oral exams
+      - By video 
+      - By something else, make an offer 
+    - At least one must be a timed quiz or oral exam. 
+    - In Bb it's recorded 0, 1, or 2 for the number of demos. 
+  - Application problems 
+    - Every couple of weeks, a new miniproject putting the current model to work 
+  - Preclass work 
+    - Most days will have preclass work + pair quizzing. 1 point for each. 
+    - Preclass assignment - 1 point completeness/effort
+    - In class quiz - 1 point completeness/correctness 
+  - Engagement 
+    - Variety of tasks to keep active in the class
+    - WeBWorK most prominent 
+    - But also surveys, opportunities each week to add 
+    - Startup modules (count for engagement AND must be completed for a C or higher) 
+- Final exam modifies the base grade
+
+|  | D | C | B | A | 
+| :--: | :--: | :--: | :--: | :--: | 
+| Learning Targets mastered | Any 10 | All 10 Core + 8 others | All 10 Core + 10 others  | All 10 Core + 12 others | 
+| Explorations passed | 2 | 5 | 6 | 7 | 
+| Class Prep points | (30%) | (60%) | (70%) | (80%) | 
+| Engagement points (assume 150) | 45 | 90 | 110 | 130 | 
+
+Additionally, all Startup Modules must be completed by xx/xx in order to earn a C or higher. 
+
 ## Second pass 
 
 - Pre-class activities with pair quizzing 
@@ -28,7 +64,7 @@
   - Surveys (1 survey = 1 point) 
   - Randomly given points 
 
-### Grading
+### Grading%
 
 |  | D | C | B | A | 
 | :--: | :--: | :--: | :--: | :--: | 
