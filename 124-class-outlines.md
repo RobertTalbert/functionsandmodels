@@ -42,9 +42,22 @@
   - Practice with doing linear regressions in google sheets
   - Practice with modeling -- making predictions, etc. 
 - R 9/16
+  - Desmos activity to describe effects of parameter changes 
+  - Activity 1.5.3 and 1.5.4
+  - Average rate of change of quadratics over equal sized intervals --> Discover that rate of change is a linear function
 
 ## Week 4
 
 - M 9/20
+  - Practice with using the notation on different kinds of functions
+  - Fun: Collatz function 
+  - Decomposing composites  
 - T 9/21
+  - Review activity with composites
+  - Desmos card sort: Which function has an inverse?
+  - Finding inverses -- tables, graphs, formulas 
+  - Activity 1.7.4
 - R 9/23
+  - Review for 1.6, 1.7 
+  - Step by step Desmos activity through each of the various kinds of transformations 
+  - Activity to apply: Figure out the transformation to hit a given graph (sunlight graph, etc.) 
